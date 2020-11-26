@@ -240,10 +240,6 @@ body {
     color: var(--clr-link);
 }
 
-
-
-
-
 .log-description {
     color: var(--clr-gray-med);
     font-size: 0.9rem;
@@ -288,8 +284,6 @@ body {
     width: 800px;
     text-align: center;
     margin-left: 200px;
-
-
 }
 
 
